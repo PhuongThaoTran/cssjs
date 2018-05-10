@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://canho-diamondlotus.net/' target='_blank'><img src='https://3.bp.blogspot.com/-bjR9I40pxus/Ws4H_xveGsI/AAAAAAAAA00/db5jNUX4a0A8gBT7a6btqTGmkLHHU9xUACEwYBhgL/s640/29063394_1637222589660737_3934006683081519704_n.jpg' width='500px'/><br/> Căn hộ chuẩn khách sạn 5 sao </a>. Liên hệ: 0909 267 829. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://banggiacanhodiamondlotus.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-bjR9I40pxus/Ws4H_xveGsI/AAAAAAAAA00/db5jNUX4a0A8gBT7a6btqTGmkLHHU9xUACEwYBhgL/s640/29063394_1637222589660737_3934006683081519704_n.jpg' width='500px'/><br/> Căn hộ chuẩn khách sạn 5 sao </a>. Liên hệ: 0909 267 829. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
