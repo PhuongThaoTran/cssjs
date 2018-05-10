@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://canho-diamondlotus.net';
+	var url_popup = 'http://banggiacanhodiamondlotus.blogspot.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
